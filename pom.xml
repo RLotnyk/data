@@ -10,6 +10,7 @@
 	</parent>
 	<groupId>ru.lotnik</groupId>
 	<artifactId>data</artifactId>
+	<packaging>war</packaging>
 	<version>1</version>
 	<name>data</name>
 	<description>data</description>
